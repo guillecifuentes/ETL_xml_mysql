@@ -1,0 +1,35 @@
+<xml>
+    <header>
+        <fecha_desde>2019/01/01</fecha_desde>
+        <fecha_hasta>2019/01/31</fecha_hasta>
+		<pagina>datamanagement.es</pagina>
+    </header>
+    <pedido id="23221" >
+        <cliente_id>69</cliente_id>
+        <cliente>Francisco Rodriguez</cliente>
+        <fecha>2019/01/04</fecha>
+        <descuento_euro>100</descuento_euro>
+        <detalles>
+            <linea producto_id="05" >
+                <descripcion>Camiseta Manga corta Joma</descripcion>
+                <color> Azul </color>
+                <precio_euro>5</precio_euro>
+                <unidades>200</unidades>
+            </linea>
+        </detalles>
+    </pedido>
+    <pedido id="23225" >
+        <cliente_id>68</cliente_id>
+        <cliente>Álvaro Latorre</cliente>
+        <fecha>2019/01/25</fecha>
+        <descuento_euro>69</descuento_euro>
+        <detalles>
+            <linea producto_id="30" >
+                <descripcion>Garmin Forerruner 235</descripcion>
+                <color>Amarillo</color>
+                <precio_euro>205</precio_euro>
+                <unidades>1</unidades>
+            </linea>
+        </detalles>
+    </pedido>
+</xml>

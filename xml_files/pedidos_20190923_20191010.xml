@@ -1,0 +1,35 @@
+<xml>
+    <header>
+        <fecha_desde>2019/09/23</fecha_desde>
+        <fecha_hasta>2019/10/10</fecha_hasta>
+		<pagina>datamanagement.es</pagina>
+    </header>
+    <pedido id="36987" >
+        <cliente_id>82</cliente_id>
+        <cliente>Jose Asensio</cliente>
+        <fecha>2019/10/04</fecha>
+        <descuento_euro>25</descuento_euro>
+        <detalles>
+            <linea producto_id="26" >
+                <descripcion> Zapatillas Nike Zoom Fly Flyknit </descripcion>
+                <color> Azul </color>
+                <precio_euro>120</precio_euro>
+                <unidades>1</unidades>
+            </linea>
+        </detalles>
+    </pedido>
+    <pedido id="36990" >
+        <cliente_id>83</cliente_id>
+        <cliente>Brian Espejo</cliente>
+        <fecha>2019/10/04</fecha>
+        <descuento_euro>50</descuento_euro>
+        <detalles>
+            <linea producto_id="26" >
+                <descripcion> Zapatillas Nike Zoom Fly Flyknit </descripcion>
+                <color> Azul </color>
+                <precio_euro>150</precio_euro>
+                <unidades>1</unidades>
+            </linea>
+        </detalles>
+    </pedido>
+</xml>

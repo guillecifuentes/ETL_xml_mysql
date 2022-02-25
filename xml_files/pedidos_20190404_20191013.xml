@@ -1,0 +1,81 @@
+<xml>
+    <header>
+        <fecha_desde>2019/04/04</fecha_desde>
+        <fecha_hasta>2019/10/13</fecha_hasta>
+		<pagina>datamanagement.es</pagina>
+    </header>
+    <pedido id="25636" >
+        <cliente_id>69</cliente_id>
+        <cliente>Francisco Rodriguez</cliente>
+        <fecha>2019/04/04</fecha>
+        <descuento_euro>10</descuento_euro>
+        <detalles>
+            <linea producto_id="25" >
+                <descripcion> Zapatillas Nike Zoom Fly Flyknit </descripcion>
+                <color> Rojo </color>
+                <precio_euro>89</precio_euro>
+                <unidades>3</unidades>
+            </linea>
+            <linea producto_id="69" >
+                <descripcion> Zapatillas Adidas Adizero Adiós 4 </descripcion>
+                <color> Verdes </color>
+                <precio_euro>105</precio_euro>
+                <unidades>1</unidades>
+            </linea>
+        </detalles>
+    </pedido>
+    <pedido id="26852" >
+        <cliente_id>96</cliente_id>
+        <cliente>Ismael Lledó</cliente>
+        <fecha>2019/08/04</fecha>
+        <descuento_euro>0</descuento_euro>
+        <detalles>
+            <linea producto_id="30" >
+                <descripcion> Calzoncillos usados y cagados </descripcion>
+                <color> Rojo-Mierda </color>
+                <precio_euro>105</precio_euro>
+                <unidades>1</unidades>
+            </linea>
+            <linea producto_id="81" >
+                <descripcion> Braguitas usadas </descripcion>
+                <color> Azul florido </color>
+                <precio_euro>22.6</precio_euro>
+                <unidades>3</unidades>
+            </linea>
+        </detalles>
+    </pedido>
+    <pedido id="28851" >
+        <cliente_id>68</cliente_id>
+        <cliente>Álvaro Latorre</cliente>
+        <fecha>2019/10/13</fecha>
+        <descuento_euro>10</descuento_euro>
+        <detalles>
+            <linea producto_id="30" >
+                <descripcion> Nike Pegasus </descripcion>
+                <color>Amarillo </color>
+                <precio_euro>105</precio_euro>
+                <unidades>1</unidades>
+            </linea>
+        </detalles>
+    </pedido>
+    <pedido id="30631" >
+        <cliente_id>69</cliente_id>
+        <cliente>Francisco Rodriguez</cliente>
+        <fecha>2019/10/13</fecha>
+        <descuento_euro>50</descuento_euro>
+        <detalles>
+            <linea producto_id="25" >
+                <descripcion></descripcion>
+                <color> Rojo </color>
+                <precio_euro>89</precio_euro>
+                <unidades>3</unidades>
+            </linea>
+            <linea producto_id="69" >
+                <descripcion> Zapatillas Adidas Adizero Adiós 4 </descripcion>
+                <color> Verdes </color>
+                <precio_euro>105</precio_euro>
+                <unidades>1</unidades>
+            </linea>
+        </detalles>
+    </pedido> 
+</xml>

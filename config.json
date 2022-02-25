@@ -1,0 +1,29 @@
+{
+  "PRODUCCION":  {
+                    "USER":"root"
+                    ,"PASS":"Happy2015"
+                    ,"HOST":"localhost"
+                    ,"DATABASE":"etl_python"
+                    ,"RUTA_XML":"C:/LaboratorioSoftware/ETL_Python/RUTA_XML/"
+                    ,"RUTA_DOWNLOAD":"C:/LaboratorioSoftware/ETL_Python/RUTA_DOWNLOAD/"
+                    ,"URL_PEDIDOS_DOWNLOAD":"https://datamanagement.es/Recursos/pedidos.rar"
+                 }
+, "DESARROLLO":  {
+    "USER":"root"
+    ,"PASS":"Happy2015"
+    ,"HOST":"localhost"
+    ,"DATABASE":"etl_python"
+    ,"RUTA_XML":"C:/LaboratorioSoftware/ETL_Python/RUTA_XML/"
+    ,"RUTA_DOWNLOAD":"C:/LaboratorioSoftware/ETL_Python/RUTA_DOWNLOAD/"
+    ,"URL_PEDIDOS_DOWNLOAD":"https://datamanagement.es/Recursos/pedidos.rar"
+                 }
+, "LOCAL":  {
+    "USER":"root"
+    ,"PASS":"Happy2015"
+    ,"HOST":"localhost"
+    ,"DATABASE":"etl_python"
+    ,"RUTA_XML":"C:/LaboratorioSoftware/ETL_Python/RUTA_XML/"
+    ,"RUTA_DOWNLOAD":"C:/LaboratorioSoftware/ETL_Python/RUTA_DOWNLOAD/"
+    ,"URL_PEDIDOS_DOWNLOAD":"https://datamanagement.es/Recursos/pedidos.rar"
+}                 
+}
